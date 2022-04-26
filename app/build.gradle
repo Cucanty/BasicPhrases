@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.androidaudio"
+        applicationId "com.example.basicphrases"
         minSdk 22
         targetSdk 32
         versionCode 1
